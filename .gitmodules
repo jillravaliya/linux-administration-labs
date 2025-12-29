@@ -1,0 +1,33 @@
+[submodule "00-overview/linux-overview"]
+	path = 00-overview/linux-overview
+	url = https://github.com/jillravaliya/linux-overview.git
+[submodule "01-boot/computer-boot-sequence"]
+	path = 01-boot/computer-boot-sequence
+	url = https://github.com/jillravaliya/computer-boot-sequence.git
+[submodule "02-cli/linux-command-essentials"]
+	path = 02-cli/linux-command-essentials
+	url = https://github.com/jillravaliya/linux-command-essentials.git
+[submodule "02-cli/linux-cli-workflows"]
+	path = 02-cli/linux-cli-workflows
+	url = https://github.com/jillravaliya/linux-cli-workflows.git
+[submodule "03-filesystem/linux-filesystem-internals"]
+	path = 03-filesystem/linux-filesystem-internals
+	url = https://github.com/jillravaliya/linux-filesystem-internals.git
+[submodule "04-packages/linux-package-management"]
+	path = 04-packages/linux-package-management
+	url = https://github.com/jillravaliya/linux-package-management.git
+[submodule "05-networking/linux-network-internals"]
+	path = 05-networking/linux-network-internals
+	url = https://github.com/jillravaliya/linux-network-internals-.git
+[submodule "05-networking/network-troubleshooting"]
+	path = 05-networking/network-troubleshooting
+	url = https://github.com/jillravaliya/network-troubleshooting-.git
+[submodule "06-gui/linux-gui-event-architecture"]
+	path = 06-gui/linux-gui-event-architecture
+	url = https://github.com/jillravaliya/linux-gui-event-architecture.git
+[submodule "06-gui/linux-graphics-flow"]
+	path = 06-gui/linux-graphics-flow
+	url = https://github.com/jillravaliya/linux-graphics-flow-.git
+[submodule "06-gui/gui-crash-report"]
+	path = 06-gui/gui-crash-report
+	url = https://github.com/jillravaliya/gui-crash-report.git
