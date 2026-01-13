@@ -1,7 +1,7 @@
 # Linux Administartion labs 
 
 
-![Labs](https://img.shields.io/badge/%20Labs-11-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=grey)
+![Labs](https://img.shields.io/badge/%20Labs-06-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=grey)
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-01-13AA52?style=for-the-badge&logo=buffer&logoColor=white&labelColor=grey)
 ![Linux](https://img.shields.io/badge/Linux%20-11-1D96E8?style=for-the-badge&logo=Linux&logoColor=white&labelColor=grey)
 ![Focus](https://img.shields.io/badge/%20Focus-Linux-EE4444?style=for-the-badge&logo=target&logoColor=white&labelColor=grey)
